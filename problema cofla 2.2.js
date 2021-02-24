@@ -1,4 +1,4 @@
-// otros ejercicios
+// otros ejerciciosl
 
 const comprar = (roberto)=>{
   if (roberto >= 0.6 && roberto <1  ) {
