@@ -1,3 +1,5 @@
+// otros ejercicios
+
 const comprar = (roberto)=>{
   if (roberto >= 0.6 && roberto <1  ) {
       alert("comprate el helado de arroz");
